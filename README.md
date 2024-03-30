@@ -1,5 +1,4 @@
-VScode link:
-[https://vscode.dev/github/KristinWolv/Module_6_KRIWOL477_FTO2403_GroupA1_Kristin_Wolvaardt_SDF06/blob/main-main]
+
 
 # [SDF05] Project Brief: Blackjack Game on GitHub
 
